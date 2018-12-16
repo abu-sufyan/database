@@ -3,6 +3,10 @@
   {
     "name": "Jim",
     "address": "Akola"
+  },
+  {
+    "name": "Tim",
+    "address": "Nagpur"
   }
 ]
 }
