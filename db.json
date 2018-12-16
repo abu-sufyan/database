@@ -1,14 +1,5 @@
 {
 "contacts":[
-  {
-    "name": "Jim",
-    "address": "Akola",
-    "id": 1
-  },
-  {
-    "name": "Tim",
-    "address": "Nagpur",
-    "id": 2
-  }
+  
 ]
 }
